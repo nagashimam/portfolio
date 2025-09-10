@@ -36,6 +36,5 @@
   - [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint)
   - [ngx-markuplint-vscode](https://github.com/nagashimam/ngx-markuplint-vscode)
   - [ngx-markuplint-cli](https://github.com/nagashimam/ngx-markuplint-cli)
-- [Jagu'e'r](https://jaguer.jp/)
 - [活動報告: Jagu'e'r ヘルスケア分科会 第11回イベントレポート（モバイル／スマホアプリ分科会合同）](https://note.com/sekiguchitakao/n/nd35f479dd32e)
 - 「モバイルアプリのアクセシビリティ」というテーマで登壇したときの発表内容を参加者が要約してくれました
