@@ -21,8 +21,8 @@
 
 ## OSSへのコントリビュート
 
-- [reg-cliのバグ修正](https://github.com/reg-viz/reg-cli/pull/401)
-- [Storybookのバグ修正](https://github.com/storybookjs/storybook/pull/16931)
+- [(fix) Enable reg-cli to delete images whose name contain glob characters](https://github.com/reg-viz/reg-cli/pull/401)
+- [Angular: Fix support for non-roman alphabets in story titles](https://github.com/storybookjs/storybook/pull/16931)
 - [bug: ion-router-outlet not marked aria-hidden when multiple overlays are presented and some dismissed](https://github.com/ionic-team/ionic-framework/issues/28180)
 - [bug: unintended re-focus to input after selecting clear input button with iOS VoiceOver](https://github.com/ionic-team/ionic-framework/issues/29358)
 
