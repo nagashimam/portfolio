@@ -33,8 +33,9 @@
 - [活動報告: Jagu'e'r ヘルスケア分科会 第11回イベントレポート（モバイル／スマホアプリ分科会合同）](https://note.com/sekiguchitakao/n/nd35f479dd32e)
   - 「モバイルアプリのアクセシビリティ」というテーマで登壇したときの発表内容を参加者が要約してくれました
 - [AngularアプリでHTMLバリデーターを使いたい](https://github.com/nagashimam/Kofu)
-  - [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge)
-  - [ngx-html-bridge-cli](https://github.com/nagashimam/ngx-markuplint-cli)
-  - [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint)
-  - [ngx-markuplint-vscode](https://github.com/nagashimam/ngx-markuplint-vscode)
-  - [ngx-markuplint-cli](https://github.com/nagashimam/ngx-markuplint-cli)
+  - [Kofu.なんか #1](https://houtoupm.connpass.com/event/357176/)というイベントに登壇したときの資料です。以下、登壇で触れた・あるいはそれに関連するレポジトリ
+    - [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge)
+    - [ngx-html-bridge-cli](https://github.com/nagashimam/ngx-markuplint-cli)
+    - [ngx-html-bridge-markuplint](https://github.com/nagashimam/ngx-html-bridge-markuplint)
+    - [ngx-markuplint-vscode](https://github.com/nagashimam/ngx-markuplint-vscode)
+    - [ngx-markuplint-cli](https://github.com/nagashimam/ngx-markuplint-cli)
