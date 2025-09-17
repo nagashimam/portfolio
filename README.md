@@ -16,6 +16,7 @@
 - [Angular向けStorybookのチュートリアルを日本語訳しました](https://zenn.dev/nagashima/articles/c49c1f43209dc3)
   - [StorybookのAngular向けチュートリアル翻訳](https://github.com/chromaui/learnstorybook.com/pull/466)
 - [アプリのアクセシビリティ改善で行っていること](https://qiita.com/m-nagashima-zdf/items/eae175ca0b21828b40b4)
+- [Ionic5 系から 7 系にアップデートするときに起きた、アクセシビリティの問題と解決策](https://qiita.com/m-nagashima-zdf/items/82aeeb8d7467d69a31ea)
 
 ---
 
