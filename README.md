@@ -31,8 +31,10 @@
 
 ## 登壇・イベントレポート
 
+- [【国内/後援】11/30(木)ウェブアクセシビリティ勉強会](https://fintechjapan.org/upcoming-event/13895/)
 - [活動報告: Jagu'e'r ヘルスケア分科会 第11回イベントレポート（モバイル／スマホアプリ分科会合同）](https://note.com/sekiguchitakao/n/nd35f479dd32e)
   - 「モバイルアプリのアクセシビリティ」というテーマで登壇したときの発表内容を参加者が要約してくれました
+- [プロダクト開発で活きる、デザイン・アクセシビリティ・ビジネス視点の実践事例集 — フロントエンド＋αのスキルセットがエンジニアのキャリアを拓く](https://techplay.jp/event/981265)
 - [AngularアプリでHTMLバリデーターを使いたい](https://github.com/nagashimam/Kofu)
   - [Kofu.なんか #1](https://houtoupm.connpass.com/event/357176/)というイベントに登壇したときの資料です。以下、登壇で触れた・あるいはそれに関連するレポジトリ
     - [ngx-html-bridge](https://github.com/nagashimam/ngx-html-bridge)
